@@ -9,70 +9,40 @@
   weight: 3
 
 - name: Git
-  weight: 3
+  weight: 4
 
 - name: GitHub Desktop
-  weight: 5
+  weight: 4
 
 - name: GitHub
   weight: 5
 
-- name: GitLab
+- name: NoSQL
   weight: 3
 
 - name: Bash
   weight: 4
 
-- name: PowerShell
-  weight: 4
-
-- name: AppleScript
-  weight: 2
-
-- name: WSL
-  weight: 4
-
-- name: Chrome DevTools
+- name: Linux
   weight: 3
 
-- name: Firefox DevTools
-  weight: 3
-
-- name: npm
-  weight: 3
-
-- name: yarn
-  weight: 1
-
-- name: apt
+- name: MongoDB
   weight: 3
 
 - name: brew
   weight: 3
 
-- name: Make
-  weight: 2
+- name: Pytorch
+  weight: 4
 
-- name: CMake
-  weight: 2
-
-- name: WinGet
-  weight: 3
-
-- name: gulp
-  weight: 1
-
-- name: ridk
-  weight: 1
+- name: Pymc
+  weight: 4
 
 - name: Jekyll
   weight: 1
 
+- name: JupyterLab
+  weight: 5
+
 - name: VS Code
-  weight: 3
-
-- name: Visual Studio
-  weight: 2
-
-- name: Android Studio
-  weight: 2
+  weight: 4
