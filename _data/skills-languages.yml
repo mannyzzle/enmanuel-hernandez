@@ -6,28 +6,19 @@
 #   weight: 5
 
 - name: JavaScript
-  weight: 4
+  weight: 1
 
 - name: Python
-  weight: 3
-
-- name: HTML5
   weight: 4
 
-- name: CSS3
+- name: SQL
   weight: 4
-
-- name: SASS
-  weight: 1
 
 - name: Java
-  weight: 1
-
-- name: Kotlin
-  weight: 1
+  weight: 3
 
 - name: C/C++
-  weight: 2
+  weight: 1
 
 - name: Ruby
-  weight: 1
+  weight: 2
