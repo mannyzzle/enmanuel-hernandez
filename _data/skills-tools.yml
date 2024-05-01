@@ -1,0 +1,78 @@
+# > name: Name of your Dev Tool
+# > weight: Describes how good you know the tool - values from 1 up to 5
+#
+# Example of a Dev Tool
+# - name: Git
+#   weight: 5
+
+- name: Vim
+  weight: 3
+
+- name: Git
+  weight: 3
+
+- name: GitHub Desktop
+  weight: 5
+
+- name: GitHub
+  weight: 5
+
+- name: GitLab
+  weight: 3
+
+- name: Bash
+  weight: 4
+
+- name: PowerShell
+  weight: 4
+
+- name: AppleScript
+  weight: 2
+
+- name: WSL
+  weight: 4
+
+- name: Chrome DevTools
+  weight: 3
+
+- name: Firefox DevTools
+  weight: 3
+
+- name: npm
+  weight: 3
+
+- name: yarn
+  weight: 1
+
+- name: apt
+  weight: 3
+
+- name: brew
+  weight: 3
+
+- name: Make
+  weight: 2
+
+- name: CMake
+  weight: 2
+
+- name: WinGet
+  weight: 3
+
+- name: gulp
+  weight: 1
+
+- name: ridk
+  weight: 1
+
+- name: Jekyll
+  weight: 1
+
+- name: VS Code
+  weight: 3
+
+- name: Visual Studio
+  weight: 2
+
+- name: Android Studio
+  weight: 2

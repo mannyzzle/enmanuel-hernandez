@@ -1,0 +1,9 @@
+_site
+.sass-cache
+Font-Awesome
+node_modules
+.DS_STORE
+.jekyll-cache
+.env
+.prettierignore
+.jekyll-metadata

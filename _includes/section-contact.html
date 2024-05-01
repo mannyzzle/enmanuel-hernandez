@@ -1,0 +1,167 @@
+<h1 class="title">{{site.contact_title}}</h1>
+<p class="subtitle">{{site.contact_description}}</p>
+
+<div class="contact-icons">
+  {% if site.email != null %}
+  <a class="social-link email" aria-label="My E-Mail" href="mailto:{{site.email}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/solid.svg#envelope" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+
+  {% if site.github_username != null %}
+  <a class="social-link" aria-label="My GitHub" target="_blank" rel="noreferrer"
+    href="https://github.com/{{site.github_username}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#github" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+
+  {% if site.gitlab_username != null %}
+  <a class="social-link gitlab" aria-label="My GitLab" target="_blank" rel="noreferrer"
+    href="https://gitlab.com/{{site.gitlab_username}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#gitlab" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+
+  {% if site.replit_handle != null %}
+  <a class="social-link replit" aria-label="My Replit" target="_blank" rel="noreferrer"
+    href="https://replit.com/@{{site.replit_handle}}">
+    <div class="social">
+      <svg class="social-svg" role="img" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+        <svg x="12" y="12" viewBox="0 0 48 48">
+          <path d="M2 1.5A1.5 1.5 0 0 1 3.5 0h7A1.5 1.5 0 0 1 12 1.5V8H3.5A1.5 1.5 0 0 1 2 6.5ZM12 8h8.5A1.5 1.5 0 0 1 22 9.5v5a1.5 1.5 0 0 1-1.5 1.5H12ZM2 17.5A1.5 1.5 0 0 1 3.5 16H12v6.5a1.5 1.5 0 0 1-1.5 1.5h-7A1.5 1.5 0 0 1 2 22.5Z"/>
+        </svg>
+      </svg>
+      <!--<svg class="donate-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#replit" | prepend: site.baseurl }}"></use>
+      </svg>-->
+    </div>
+  </a>
+  {% endif %}
+
+  {% if site.codepen_username != null %}
+  <a class="social-link" aria-label="My Codepen" target="_blank" rel="noreferrer"
+    href="https://codepen.io/{{site.codepen_username}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#codepen" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+
+  {% if site.dev_username != null %}
+  <a class="social-link" aria-label="My DEV" target="_blank" rel="noreferrer"
+    href="https://dev.to/{{site.dev_username}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#dev" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+
+  {% if site.stackoverflow_userid != null %}
+  <a class="social-link stackoverflow" aria-label="My StackOverflow" target="_blank" rel="noreferrer"
+    href="https://stackoverflow.com/users/{{site.stackoverflow_userid}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#stack-overflow" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+
+  {% if site.linkedin_username != null %}
+  <a class="social-link linkedin" aria-label="My LinkedIn" target="_blank" rel="noreferrer"
+    href="https://www.linkedin.com/in/{{site.linkedin_username}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#linkedin-in" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+
+  {% if site.reddit_username != null %}
+  <a class="social-link reddit" aria-label="My Reddit" target="_blank" rel="noreferrer"
+    href="https://www.reddit.com/u/{{site.reddit_username}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#reddit" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+
+  {% if site.x_twitter_username != null %}
+  <a class="social-link" aria-label="My X (Twitter)" target="_blank" rel="noreferrer"
+    href="https://x.com/{{site.x_twitter_username}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#x-twitter" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+
+  {% if site.bluesky_handle != null %}
+  <a class="social-link bluesky" aria-label="My Bluesky" target="_blank" rel="noreferrer"
+    href="https://bsky.app/profile/{{site.bluesky_handle}}">
+    <div class="social">
+      <svg class="social-svg" role="img" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+        <svg x="12" y="12" viewBox="0 0 48 48">
+          <path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"/>
+        </svg>
+      </svg>
+      <!--<svg class="donate-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#bluesky" | prepend: site.baseurl }}"></use>
+      </svg>-->
+    </div>
+  </a>
+  {% endif %}
+
+  {% if site.mastodon_userprofile_url != null %}
+  <a class="social-link mastodon" aria-label="My Mastodon" target="_blank" rel="noreferrer"
+    href="https://{{site.mastodon_userprofile_url}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#mastodon" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+
+  {% if site.threads_handle != null %}
+  <a class="social-link" aria-label="My Threads" target="_blank" rel="noreferrer"
+    href="https://www.threads.net/@{{site.threads_handle}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#threads" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+
+  {% if site.youtube_handle != null %}
+  <a class="social-link youtube" aria-label="My YouTube" target="_blank" rel="noreferrer"
+    href="https://www.youtube.com/@{{site.youtube_handle}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#youtube" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+</div>

@@ -1,0 +1,1 @@
+Use https://simpleicons.org/ for any one-off brands that aren't in the `brands.svg` sprite
