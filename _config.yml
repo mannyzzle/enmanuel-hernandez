@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Andrew Larson
+title: Enmanuel Hernandez
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -11,38 +11,38 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Andrew Larson
+username: Enmanuel Hernandez
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Hobbyiest Software Dev
+typing_text: Astrophysics + Data Science
 # profile_picture: This will be the picture shown with your name, size must be noted
-profile_picture: https://github.com/Andrew-J-Larson.png?size=192
+profile_picture: https://github.com/mannyzzle.png?size=192
 profile_picture_size: 192px
 # email: Your E-Mail address for the email button.
-email: contact@Andrew-Larson.dev
+email: enmah2001@gmail.com
 # For every social button you want to display, set your username, userid, etc.
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: Andrew-J-Larson
-gitlab_username: Andrew-J-Larson
-replit_handle: Andrew-J-Larson
+github_username: mannyzzle
+gitlab_username: 
+replit_handle: 
 codepen_username: 
-dev_username: Andrew-J-Larson
-stackoverflow_userid: 7312536
-linkedin_username: Andrew-J-Larson
+dev_username: 
+stackoverflow_userid: 
+linkedin_username: enmanuel-hernandez-74937223a
 reddit_username: 
-x_twitter_username: 
+x_twitter_username: Mannyzzle
 bluesky_handle: # USERNAME.bsky.social
-mastodon_userprofile_url: mstdn.social/@Andrew_J_Larson # mastodon verification should work automatically
+mastodon_userprofile_url: 
 threads_handle: 
-youtube_handle: Andrew-J-Larson
+youtube_handle: 
 # For every donate button you want to display, set your username, userid, etc.
 # If you do not use one of the following websites, then leave it empty
 # > kofi_username:
-kofi_username: Andrew_J_Larson
-patreon_username: Andrew_J_Larson
-paypal_username: AndrewJ18Larson
-bitcoin_wallet_address: bc1qzmauw4pneakmwjh7yracfrlqqp4n24grgjqs7p
+kofi_username: 
+patreon_username: 
+paypal_username: 
+bitcoin_wallet_address: 
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -52,7 +52,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: At the moment I've achieved Sophomore status in my B.S. in Computer Science at Portland State University (up to course CS 163), but I've been taking a break (since early 2021) mainly due to financial stressors and other personal goals. I have a strong interest in software development/programming, and I am eager to learn and grow in this field. Please reach out to me with any job opportunities related to software developer internships!
+about_me_description: Hello ! I am Enmanuel Hernandez (but you could just call me Manny for short !), currently a fourth year student at  UC Berkeley soon to graduate ! Im passionate about data science, data engineering, machine learning, physical science analysis, astronomy and I am eager to learn and grow in this field. Please reach out to me with any job opportunities related to internships of these fields!
 
 # SKILLS SECTION
 # show_skills_card:
@@ -71,7 +71,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://www.linkedin.com/in/Andrew-J-Larson/ # TODO - Once I have enough education/experience for a CV, I'll need to fix this + `.\_includes\section-timeline.html`
+cv_download_link: file:///Users/enmanuel/Downloads/ResumeofEnmanuelHernandez_May2024_.html # TODO -  fix this + `.\_includes\section-timeline.html`
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -105,7 +105,7 @@ contact_description: Get in touch with me directly or reply to something on one 
 # show_donate_card:
 # > setting this to true, will display the Donate section
 # > setting this to false, will omit the Donate section
-show_donate_card: true
+show_donate_card: false
 # donate_title: The will be displayed as the title in the Donate section
 donate_title: Donate
 # donate_description: This will be displayed under the title.
