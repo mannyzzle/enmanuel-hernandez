@@ -17,49 +17,39 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: freeCodeCamp
-  title-url: https://www.freecodecamp.org/AndrewL18
-  date: Jul 2023 - Present
-  subtitle: Working on Responsive Web Design Certification
+- title: Berkeley Astro Research
+  title-url: https://astro.berkeley.edu/
+  date: Sept 2021 - May 2024
+  subtitle: Researcher
   tags:
-    - tag: JavaScript
-    - tag: CSS3
-    - tag: HTML5
+    - tag: SQL
+    - tag: Pytorch
+    - tag: Linear Algebra
+    - tag: Pymc
+    - tag: Pandas
+    - tag: Python
+    - tag: Machine Learning
   timeline-side: right
 
-- title: Northwest Pump
-  title-url: https://www.nwpump.com/
-  date: Apr 2021 - Present
-  subtitle: IT Support Technician
+- title: UC Berkeley
+  title-url: https://guide.berkeley.edu/undergraduate/degree-programs/data-science/
+  date: Aug 2020 - Dec 2024
+  subtitle: B.A Data Science
   tags:
-    - tag: PowerShell
-    - tag: Windows
-    - tag: Bash
-    - tag: GNU Linux
-    - tag: JavaScript
-    - tag: CSS3
-    - tag: HTML5
+    - tag: SQL
+    - tag: Linux
+    - tag: Java
+    - tag: Python
   timeline-side: left
 
-- title: Portland State University (OIT)
-  title-url: https://www.pdx.edu/technology/
-  date: Jan 2019 - Mar 2021
-  subtitle: Desktop Support Technician
+- title: UC Berkeley
+  title-url: https://guide.berkeley.edu/undergraduate/degree-programs/astrophysics/
+  date: Aug 2020 - Dec 2024
+  subtitle: B.A. Astrophysics
   tags:
-    - tag: Bash
-    - tag: GNU Linux
-    - tag: MacOS
-    - tag: Windows
-    - tag: JavaScript
-    - tag: CSS3
-    - tag: HTML5
+    - tag: Quantum Mechanics
+    - tag: Planetary Astrophysics
+    - tag: Stellar Physics
+    - tag: Cosmology
+    - tag: E&M/Dynamics
   timeline-side: right
-
-- title: Portland State University
-  title-url: https://www.pdx.edu/computer-science/
-  date: 2018 - 2021
-  subtitle: B.S. Sophomore (93 Credits) - On hold, due to lack of finances
-  tags:
-    - tag: C/C++
-    - tag: GNU Linux
-  timeline-side: left
