@@ -5,12 +5,12 @@
 # - name: Framework
 #   weight: 5
 
-- name: jQuery
+- name: Java
   weight: 2
 
 - name: React
   weight: 1
 
 - name: Node
-  weight: 3
+  weight: 1
 
