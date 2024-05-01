@@ -13,7 +13,7 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Milky Way Dust Map Construction Using RR Lyrae Stars 
+- name: "Milky Way Dust Map Construction Using RR Lyrae Stars" 
   descr: "Conducted extensive data analysis on RR Lyrae stars from Gaia's DR3 and eDR3 catalogs to build a comprehensive dust map of the Milky Way."
   tags:
     - tag: Data Analysis
@@ -21,34 +21,35 @@
     - tag: Pymc
     - tag: Bayesian Modeling
 
-- name: Investigating the Progenitors of Type Ia Supernovae: A Study on Metallicitys Role 
+- name: "Investigating the Progenitors of Type Ia Supernovae: A Study on Metallicitys Role" 
   descr: "Led a comprehensive study exploring the evolutionary paths leading to Type Ia Supernovae, focusing on carbon-oxygen white dwarfs in binary systems and their mass accretion patterns."
   tags:
     - tag: Astrophysics
     - tag: Python
     - tag: Statistical Analysis
 
-- name: 2023 - MongoDB Project: Yelp Academic Dataset Analysis (Data Engineering Course)
-  descr: "Utilized MongoDB to manage and analyze semi-structured JSON data from the Yelp Academic Dataset, developing queries and aggregation pipelines."
+- name: "MongoDB Project: Yelp Academic Dataset Analysis (Data Engineering Course)"
+  descr: "Utilized MongoDB to manage and analyze semi structured JSON data from the Yelp Academic Dataset, developing queries and aggregation pipelines."
   tags:
     - tag: MongoDB
     - tag: Data Engineering
     - tag: NoSQL
 
-- name: Modeling Stellar Spectra with Generative Models
+- name: "Modeling Stellar Spectra with Generative Models"
   descr: "Developed a predictive model to analyze and infer properties from over 3,000 stellar spectra of red giants in the APOGEE survey using Python."
   tags:
     - tag: Pymc
     - tag: Python
     - tag: Machine Learning
 
-- name: 2023 - Data Transformation Project (Data Engineering Course)
+- name: "Data Transformation Project (Data Engineering Course)"
   descr: "Analyzed a month's worth of sensor data from UC Berkeley buildings using SQL and Python."
+  tags:
     - tag: Data Transformation
     - tag: SQL
     - tag: Python
 
-- name: 2024 - Galaxy Image Classifier 
+- name: "Galaxy Image Classifier"
   descr: "Developed a sophisticated machine learning model using PyTorch to classify galaxies based on shape, utilizing images from the Sloan Digital Sky Survey and Galaxy Zoo project."
   tags:
     - tag: Machine Learning
