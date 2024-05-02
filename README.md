@@ -14,6 +14,7 @@
 
 [View Demo](https://longpdo.github.io/neumorphism/) · [Report Bug](https://github.com/longpdo/neumorphism/issues) · [Request Feature](https://github.com/longpdo/neumorphism/issues)
 
+<<<<<<< HEAD
 
 <!-- ABOUT THE PROJECT -->
 
@@ -53,6 +54,8 @@ Contributions are what make the open source community such an amazing place to l
 5. Open a Pull Request
 
 <!-- LICENSE -->
+=======
+>>>>>>> 09d6e74a7a46b6594de5296bde9a09d5e0e8b3b6
 
 ## License
 
