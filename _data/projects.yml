@@ -15,6 +15,7 @@
 
 - name: "Milky Way Dust Map Construction Using RR Lyrae Stars" 
   descr: "Conducted extensive data analysis on RR Lyrae stars from Gaia's DR3 and eDR3 catalogs to build a comprehensive dust map of the Milky Way."
+  demo: https://github.com/mannyzzle/Milky-Way-Dust-Map-Construction
   tags:
     - tag: Data Analysis
     - tag: SQL
@@ -37,6 +38,7 @@
 
 - name: "Modeling Stellar Spectra with Generative Models"
   descr: "Developed a predictive model to analyze and infer properties from over 3,000 stellar spectra of red giants in the APOGEE survey using Python."
+  demo: https://github.com/mannyzzle/Modeling-Stellar-Spectra 
   tags:
     - tag: Pymc
     - tag: Python
@@ -51,6 +53,7 @@
 
 - name: "Galaxy Image Classifier"
   descr: "Developed a sophisticated machine learning model using PyTorch to classify galaxies based on shape, utilizing images from the Sloan Digital Sky Survey and Galaxy Zoo project."
+  demo: https://github.com/mannyzzle/Galaxy-Image-Classifier 
   tags:
     - tag: Machine Learning
     - tag: PyTorch
