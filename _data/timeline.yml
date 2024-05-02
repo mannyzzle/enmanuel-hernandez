@@ -29,6 +29,9 @@
     - tag: Pandas
     - tag: Python
     - tag: Machine Learning
+    - tag: Cosmology
+    - tag: Modeling
+    - tag: Bayesian Inference
   timeline-side: right
 
 - title: UC Berkeley
@@ -40,6 +43,9 @@
     - tag: Linux
     - tag: Java
     - tag: Python
+    - tag: Git
+    - tag: MongoDB
+    - tag: NoSQL
   timeline-side: left
 
 - title: UC Berkeley
@@ -52,4 +58,6 @@
     - tag: Stellar Physics
     - tag: Cosmology
     - tag: E&M/Dynamics
+    - tag: Linear Algebra
+    - tag: ADQL
   timeline-side: right

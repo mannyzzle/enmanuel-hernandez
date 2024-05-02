@@ -15,7 +15,7 @@
 
 - name: "Milky Way Dust Map Construction Using RR Lyrae Stars" 
   descr: "Conducted extensive data analysis on RR Lyrae stars from Gaia's DR3 and eDR3 catalogs to build a comprehensive dust map of the Milky Way."
-  demo: https://github.com/mannyzzle/Milky-Way-Dust-Map-Construction
+  demo: https://github.com/mannyzzle/Constructing-Milky-Way-Dust-Map
   tags:
     - tag: Data Analysis
     - tag: SQL
