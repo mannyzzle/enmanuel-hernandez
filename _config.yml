@@ -14,7 +14,7 @@ baseurl: /enmanuel-hernandez
 username: Enmanuel Hernandez
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Astrophysics + Data Science
+typing_text: Data Science + Astrophysics
 # profile_picture: This will be the picture shown with your name, size must be noted
 profile_picture: https://github.com/mannyzzle.png?size=192
 profile_picture_size: 192px
@@ -52,7 +52,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hello ! I am Enmanuel Hernandez (but you could just call me Manny for short !), currently a fourth year student at  UC Berkeley soon to graduate ! Im passionate about data science, data engineering, machine learning, physical science analysis, astronomy and I am eager to learn and grow in this field. Please reach out to me with any job opportunities related to internships of these fields!
+about_me_description: Hello ! I am Enmanuel (but you could just call me Manny for short!), currently a fourth year student at  UC Berkeley soon to graduate ! Im passionate about data science, data engineering, machine learning, physical science analysis, astronomy and I am eager to learn and grow in this field. Please reach out to me with any job opportunities related to internships of these fields!
 
 # SKILLS SECTION
 # show_skills_card:

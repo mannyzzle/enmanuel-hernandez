@@ -22,19 +22,22 @@
     - tag: Pymc
     - tag: Bayesian Modeling
 
-- name: "Investigating the Progenitors of Type Ia Supernovae: A Study on Metallicitys Role" 
-  descr: "Led a comprehensive study exploring the evolutionary paths leading to Type Ia Supernovae, focusing on carbon-oxygen white dwarfs in binary systems and their mass accretion patterns."
+- name: "Pika Run" 
+  descr: "Created 'Pika Run' an simple open-world mini-game using featuring a text-based engine that simulates dynamic world exploration through procedural room generation, interactive gameplay, and strategic navigation challenges."
+  demo: https://github.com/mannyzzle/Pika-Run 
   tags:
-    - tag: Astrophysics
-    - tag: Python
-    - tag: Statistical Analysis
+    - tag: OOP
+    - tag: Java
+    - tag: Data Structures
 
 - name: "MongoDB Project: Yelp Academic Dataset Analysis (Data Engineering Course)"
   descr: "Utilized MongoDB to manage and analyze semi structured JSON data from the Yelp Academic Dataset, developing queries and aggregation pipelines."
+  demo: https://github.com/mannyzzle/Yelp-DataSet-MongoDB
   tags:
     - tag: MongoDB
     - tag: Data Engineering
     - tag: NoSQL
+    - tag: SQL 
 
 - name: "Modeling Stellar Spectra with Generative Models"
   descr: "Developed a predictive model to analyze and infer properties from over 3,000 stellar spectra of red giants in the APOGEE survey using Python."
@@ -43,13 +46,16 @@
     - tag: Pymc
     - tag: Python
     - tag: Machine Learning
+    - tag: Stellar Physics
 
-- name: "Data Transformation Project (Data Engineering Course)"
-  descr: "Analyzed a month's worth of sensor data from UC Berkeley buildings using SQL and Python."
+- name: "Git Version Control System"
+  descr: "Created a version control system similar to Git, allowing you to track changes in your codebase over time"
+  demo: https://github.com/mannyzzle/Git-Version-Control-System
   tags:
-    - tag: Data Transformation
-    - tag: SQL
-    - tag: Python
+    - tag: Java
+    - tag: OOP
+    - tag: Data Structures
+    - tag: Git
 
 - name: "Galaxy Image Classifier"
   descr: "Developed a sophisticated machine learning model using PyTorch to classify galaxies based on shape, utilizing images from the Sloan Digital Sky Survey and Galaxy Zoo project."
@@ -57,7 +63,8 @@
   tags:
     - tag: Machine Learning
     - tag: PyTorch
-    - tag: Astrophysics
+    - tag: Cosmology
+    - tag: Python
 
 
 # - name: project Z
