@@ -52,7 +52,11 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hello ! I am Enmanuel (but you could just call me Manny for short!), currently a fourth year student at  UC Berkeley soon to graduate ! Im passionate about data science, data engineering, machine learning, physical science analysis, astronomy and I am eager to learn and grow in this field. Please reach out to me with any job opportunities related to internships of these fields!
+about_me_description: Hi there! Im Enmanuel Hernandez (you can call me Manny!), a recent graduate from UC Berkeley with a Bachelor of Arts in Data Science and Astrophysics (Fall 2024). Im passionate about data science, data engineering, machine learning, physical sciences, and astronomy.
+Im eager to apply my skills and enthusiasm to internship or entry-level opportunities in these fields. Im committed to continuous learning and growth, and I thrive on tackling challenging problems while making meaningful contributions to my team.
+Feel free to connect or reach out with any opportunities—I'd love to collaborate and explore how I can bring value to your organization!
+
+
 
 # SKILLS SECTION
 # show_skills_card:
