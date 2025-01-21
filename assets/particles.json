@@ -8,7 +8,7 @@
       }
     },
     "color": {
-  "value": ["#FFCCCC", "#FFB3B3","#FF9999","#FF8080", "#FF6666", "#FF4D4D", "#FF3333", "#FF1A1A", "#FF4000", "#FF5500", "#FF6A00", "#FF8000"]},
+  "value": ["#CC6600", "#D97700", "#E68900","#F39A00", "#FFA500","#FFB733", "#FFCA66", "#FFDC99", "#FFE5B3", "#FFEECC", "#FFF5E5", "#FFFFCC"]},
     "shape": {
       "type": "polygon",
       "stroke": {
