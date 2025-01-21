@@ -9,8 +9,8 @@
   weight: 2
 
 - name: React
-  weight: 1
+  weight: 3
 
 - name: Node
-  weight: 1
+  weight: 3
 

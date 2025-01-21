@@ -30,14 +30,17 @@
     - tag: Java
     - tag: Data Structures
 
-- name: "MongoDB Project: Yelp Academic Dataset Analysis (Data Engineering Course)"
-  descr: "Utilized MongoDB to manage and analyze semi structured JSON data from the Yelp Academic Dataset, developing queries and aggregation pipelines."
-  demo: https://github.com/mannyzzle/Yelp-DataSet-MongoDB
+- name: "Satellite Fleet Optimization Web Application"
+  descr: "Developed a full-stack web application with a 3D interactive interface for exploring satellites around the globe. Integrated a FastAPI backend with PostgreSQL for satellite data and a React frontend for dynamic visualization and interaction."
+  demo: https://github.com/mannyzzle/Satellite-Interactive-Visualizer-And-Fleet-Optimization
   tags:
-    - tag: MongoDB
-    - tag: Data Engineering
-    - tag: NoSQL
-    - tag: SQL 
+    - tag: Full-Stack Development
+    - tag: FastAPI
+    - tag: React
+    - tag: PostgreSQL
+    - tag: Data Visualization
+    - tag: LLM
+
 
 - name: "Modeling Stellar Spectra with Generative Models"
   descr: "Developed a predictive model to analyze and infer properties from over 3,000 stellar spectra of red giants in the APOGEE survey using Python."

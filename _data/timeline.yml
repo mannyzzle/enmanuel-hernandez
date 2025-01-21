@@ -44,7 +44,7 @@
     - tag: Java
     - tag: Python
     - tag: Git
-    - tag: MongoDB
+    - tag: Postgresql
     - tag: NoSQL
   timeline-side: left
 
