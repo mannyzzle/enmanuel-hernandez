@@ -5,8 +5,6 @@
 # - name: Framework
 #   weight: 5
 
-- name: Java
-  weight: 2
 
 - name: React
   weight: 3
@@ -14,3 +12,8 @@
 - name: Node
   weight: 3
 
+- name: Pytorch
+  weight: 4
+
+- name: TenserFlow
+  weight: 4

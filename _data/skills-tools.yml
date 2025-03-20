@@ -9,10 +9,10 @@
   weight: 3
 
 - name: Git
-  weight: 4
+  weight: 5
 
 - name: AWS
-  weight: 4
+  weight: 5
 
 - name: GitHub
   weight: 5
@@ -31,12 +31,6 @@
 
 - name: Postgresql
   weight: 5
-
-- name: Pytorch
-  weight: 4
-
-- name: TenserFlow
-  weight: 4
 
 - name: Pandas
   weight: 4

@@ -24,8 +24,8 @@
   tags:
     - tag: PostgresSQL
     - tag: TenserFlow
-    - tag: Aerospace
-    - tag: Pandas
+    - tag: Docker
+    - tag: AWS
     - tag: Python
     - tag: JavaScript
     - tag: React
