@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: JavaScript
-  weight: 1
+  weight: 4
 
 - name: Python
   weight: 5

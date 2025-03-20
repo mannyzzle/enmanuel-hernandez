@@ -17,6 +17,23 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Sat-Track Project
+  title-url: https://mannyzzle.github.io/Satellite-Interactive-Visualizer-And-Fleet-Optimization/
+  date: Dec 2024 - 
+  subtitle: Founder
+  tags:
+    - tag: PostgresSQL
+    - tag: TenserFlow
+    - tag: Aerospace
+    - tag: Pandas
+    - tag: Python
+    - tag: JavaScript
+    - tag: React
+    - tag: Cloud Computing
+    - tag: LSTM recurrent neural networking
+  timeline-side: left
+
+
 - title: Berkeley Astro Research
   title-url: https://astro.berkeley.edu/
   date: Sept 2021 - May 2024
@@ -29,9 +46,8 @@
     - tag: Pandas
     - tag: Python
     - tag: Machine Learning
-    - tag: Cosmology
+    - tag: Physics
     - tag: Modeling
-    - tag: Bayesian Inference
   timeline-side: right
 
 - title: UC Berkeley

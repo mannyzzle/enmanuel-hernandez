@@ -18,8 +18,8 @@
   demo: https://github.com/mannyzzle/Constructing-Milky-Way-Dust-Map
   tags:
     - tag: Data Analysis
-    - tag: SQL
-    - tag: Pymc
+    - tag: PostgresSQL
+    - tag: Python
     - tag: Bayesian Modeling
 
 - name: "Pika Run" 
@@ -32,11 +32,11 @@
 
 - name: "Satellite Fleet Optimization Web Application"
   descr: "Developed a full-stack web application with a 3D interactive interface for exploring satellites around the globe. Integrated a FastAPI backend with PostgreSQL for satellite data and a React frontend for dynamic visualization and interaction."
-  demo: https://github.com/mannyzzle/Satellite-Interactive-Visualizer-And-Fleet-Optimization
+  demo: https://mannyzzle.github.io/Satellite-Interactive-Visualizer-And-Fleet-Optimization/
   tags:
     - tag: Full-Stack Development
-    - tag: FastAPI
-    - tag: React
+    - tag: AWS
+    - tag: JavaScript
     - tag: PostgreSQL
     - tag: Data Visualization
     - tag: LLM
