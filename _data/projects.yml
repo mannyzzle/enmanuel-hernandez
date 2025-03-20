@@ -31,7 +31,7 @@
     - tag: Data Structures
 
 - name: "Satellite Fleet Optimization Web Application"
-  descr: "Developed a full-stack web application with a 3D interactive interface for exploring satellites around the globe. Integrated a FastAPI backend with PostgreSQL for satellite data and a React frontend for dynamic visualization and interaction."
+  descr: "Developed a full-stack web application with a 3D UI for exploring orbits around the globe & with AI enhanced orbital prediction tracking. Integrated a PostgresSQL backend by AWS for satellite data and a React frontend for dynamic visualization/interaction."
   demo: https://mannyzzle.github.io/Satellite-Interactive-Visualizer-And-Fleet-Optimization/
   tags:
     - tag: Full-Stack Development
