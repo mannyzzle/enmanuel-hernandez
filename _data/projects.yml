@@ -13,14 +13,18 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: "Milky Way Dust Map Construction Using RR Lyrae Stars" 
-  descr: "Conducted extensive data analysis on RR Lyrae stars from Gaia's DR3 and eDR3 catalogs to build a comprehensive dust map of the Milky Way."
-  demo: https://github.com/mannyzzle/Constructing-Milky-Way-Dust-Map
+- name: "COSMO LLM: Scalable AI for Space, Engineering & Scientific Discovery"
+  descr: "Fine-tuned a transformer-based LLM on MPT-30B from MosaicML to specialize in scientific computing, physical engineering, and automated data analysis. COSMO ingests datasets from AWS S3 and uses Apache Spark for scalable training. It generates insights, summaries with raw data, time series, and sensor feeds. Built on Databricks for data prep and deployed with Kubernetes, COSMO supports domains like aerospace telemetry, materials modeling, and satellite operations."
+  demo: https://github.com/mannyzzle/COSMO-LLM
   tags:
-    - tag: Data Analysis
-    - tag: PostgresSQL
+    - tag: Transformers
+    - tag: Data Analytics
+    - tag: AWS S3
+    - tag: Apache Spark
+    - tag: Databricks
+    - tag: Kubernetes
     - tag: Python
-    - tag: Bayesian Modeling
+
 
 - name: "Pika Run" 
   descr: "Created 'Pika Run' an simple open-world mini-game using featuring a text-based engine that simulates dynamic world exploration through procedural room generation, interactive gameplay, and strategic navigation challenges."
@@ -31,15 +35,16 @@
     - tag: Data Structures
 
 - name: "Satellite Fleet Optimization Web Application"
-  descr: "Developed a full-stack web application with a 3D UI for exploring orbits around the globe & with AI enhanced orbital prediction tracking. Integrated a PostgresSQL backend by AWS for satellite data and a React frontend for dynamic visualization/interaction."
+  descr: "Developed a full-stack web application with a 3D UI for exploring orbits around the globe & with AI enhanced orbital prediction using LSTM tracking that learns in real time. Integrated a PostgresSQL backend by AWS for satellite data and a React frontend for dynamic visualization/interaction."
   demo: https://mannyzzle.github.io/Satellite-Interactive-Visualizer-And-Fleet-Optimization/
   tags:
     - tag: Full-Stack Development
-    - tag: AWS
+    - tag: AWS RDS
     - tag: JavaScript
+    - tag: React/Node.js
     - tag: PostgreSQL
-    - tag: Data Visualization
-    - tag: LLM
+    - tag: Python Scripting
+    - tag: 
 
 
 - name: "Modeling Stellar Spectra with Generative Models"
@@ -48,7 +53,8 @@
   tags:
     - tag: Pymc
     - tag: Python
-    - tag: Machine Learning
+    - tag: Markov Chains
+    - tag: Data Analysis
     - tag: Stellar Physics
 
 - name: "Git Version Control System"
@@ -64,7 +70,7 @@
   descr: "Developed a sophisticated machine learning model using PyTorch to classify galaxies based on shape, utilizing images from the Sloan Digital Sky Survey and Galaxy Zoo project."
   demo: https://github.com/mannyzzle/Galaxy-Image-Classifier 
   tags:
-    - tag: Machine Learning
+    - tag: Resnet Neural Networks
     - tag: PyTorch
     - tag: Cosmology
     - tag: Python
