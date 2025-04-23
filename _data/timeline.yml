@@ -34,9 +34,9 @@
   timeline-side: left
 
 
-- title: Berkeley Astro Research
+- title: Berkeley Astronomy Dept Research
   title-url: https://astro.berkeley.edu/
-  date: Sept 2021 - May 2024
+  date: Oct 2021 - Jan 2024
   subtitle: Data Analyst
   tags:
     - tag: SQL
@@ -52,7 +52,7 @@
 
 - title: UC Berkeley
   title-url: https://guide.berkeley.edu/undergraduate/degree-programs/data-science/
-  date: Aug 2020 - Dec 2024
+  date: 
   subtitle: B.A Data Science
   tags:
     - tag: SQL
@@ -66,7 +66,7 @@
 
 - title: UC Berkeley
   title-url: https://guide.berkeley.edu/undergraduate/degree-programs/astrophysics/
-  date: Aug 2020 - Dec 2024
+  date: 
   subtitle: B.A. Astrophysics
   tags:
     - tag: Quantum Mechanics

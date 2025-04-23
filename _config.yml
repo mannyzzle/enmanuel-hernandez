@@ -73,7 +73,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: file:///Users/enmanuel/Downloads/ResumeofEnmanuelHernandez_May2024_.html # TODO -  fix this + `.\_includes\section-timeline.html`
+cv_download_link: https://docs.google.com/document/d/e/2PACX-1vROcxP-uY8gMS78cwXo492Kh9ODXa-ki_eqNwNg00cer-SqF7EW-EK709Fr94b-wKRUwAPISdliR9iL/pub # TODO -  fix this + `.\_includes\section-timeline.html`
 
 # PROJECTS SECTION
 # show_projects_card:
