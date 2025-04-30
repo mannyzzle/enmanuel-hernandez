@@ -31,8 +31,20 @@
     - tag: React
     - tag: Cloud Computing
     - tag: LSTM recurrent neural networking
-  timeline-side: left
+  timeline-side: right
 
+- title: SpaceX
+  title-url: https://www.spacex.com/
+  date: Jan 2025 - May 2025
+  subtitle: Associate Software Engineer Intern
+  tags:
+    - tag: PostgresSQL
+    - tag: Docker
+    - tag: AWS
+    - tag: Python
+    - tag: C
+    - tag: Orbital Mechanics
+  timeline-side: left
 
 - title: Berkeley Astronomy Dept Research
   title-url: https://astro.berkeley.edu/
