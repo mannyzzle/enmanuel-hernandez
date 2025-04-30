@@ -5,8 +5,6 @@
 # - name: Git
 #   weight: 5
 
-- name: Vim
-  weight: 3
 
 - name: Git
   weight: 5
@@ -41,5 +39,7 @@
 - name: VS Code
   weight: 4
 
-- name: Numpy
-  weight: 4
+- name: Neovim
+  weight: 3
+
+

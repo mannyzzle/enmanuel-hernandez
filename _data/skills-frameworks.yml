@@ -17,3 +17,8 @@
 
 - name: TenserFlow
   weight: 4
+
+- name: Kurbenetes
+  weight: 2
+
+
