@@ -33,35 +33,6 @@
     - tag: LSTM recurrent neural networking
   timeline-side: right
 
-- title: SpaceX
-  title-url: https://www.spacex.com/
-  date: Jan 2025 - May 2025
-  subtitle: Associate Software Engineer Intern
-  tags:
-    - tag: PostgresSQL
-    - tag: Docker
-    - tag: AWS
-    - tag: Python
-    - tag: C
-    - tag: Orbital Mechanics
-  timeline-side: left
-
-- title: Berkeley Astronomy Dept Research
-  title-url: https://astro.berkeley.edu/
-  date: Oct 2021 - Jan 2024
-  subtitle: Data Scientist
-  tags:
-    - tag: SQL
-    - tag: Pytorch
-    - tag: Linear Algebra
-    - tag: Pymc
-    - tag: Pandas
-    - tag: Python
-    - tag: Machine Learning
-    - tag: Physics
-    - tag: Modeling
-  timeline-side: right
-
 - title: UC Berkeley
   title-url: https://guide.berkeley.edu/undergraduate/degree-programs/data-science/
   date: 
