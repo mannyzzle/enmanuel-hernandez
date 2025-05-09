@@ -14,7 +14,7 @@ baseurl: /enmanuel-hernandez
 username: Enmanuel Hernandez
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Data Science + Astrophysics
+typing_text: Data Scientist x Software Engineer
 # profile_picture: This will be the picture shown with your name, size must be noted
 profile_picture: https://github.com/mannyzzle.png?size=192
 profile_picture_size: 192px
