@@ -17,11 +17,26 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Stealth Startup
+  title-url: https://github.com/Team-Kokua
+  date: May 2025 -
+  subtitle: Software Engineer Intern
+  tags:
+    - tag: TypeScript
+    - tag: AWS
+    - tag: LLM
+    - tag: Python
+    - tag: Docker
+    - tag: React
+    - tag: WebSockets
+  timeline-side: left
+
+
 - title: Sat-Track Project
   title-url: https://mannyzzle.github.io/Satellite-Interactive-Visualizer-And-Fleet-Optimization/
-  date: Oct 2023 - 
+  date: Oct 2023 - May 2025
   subtitle: Founding Software Engineer
-  tags:
+  timetags:
     - tag: PostgresSQL
     - tag: TenserFlow
     - tag: Docker
@@ -29,14 +44,14 @@
     - tag: Python
     - tag: JavaScript
     - tag: React
-    - tag: Cloud Computing
-    - tag: LSTM recurrent neural networking
+    - tag: GMAT
+    - tag: LSTM + LLM
   timeline-side: right
 
 - title: Starlink
   title-url: https://www.spacex.com/
   date: Jan 2025 - May 2025
-  subtitle: Software Contractor
+  subtitle: Software Engineer
   tags:
     - tag: PostgresSQL
     - tag: Docker
@@ -49,7 +64,7 @@
 - title: Berkeley Astronomy Dept Undergrad Research
   title-url: https://astro.berkeley.edu/
   date: Oct 2021 - Jan 2024
-  subtitle: Data Scientist 
+  subtitle: Data Scientist
   tags:
     - tag: SQL
     - tag: Pytorch
@@ -64,7 +79,7 @@
 
 - title: UC Berkeley
   title-url: https://guide.berkeley.edu/undergraduate/degree-programs/data-science/
-  date: 
+  date:
   subtitle: B.A Data Science
   tags:
     - tag: SQL
@@ -78,7 +93,7 @@
 
 - title: UC Berkeley
   title-url: https://guide.berkeley.edu/undergraduate/degree-programs/astrophysics/
-  date: 
+  date:
   subtitle: B.A. Astrophysics
   tags:
     - tag: Quantum Mechanics
