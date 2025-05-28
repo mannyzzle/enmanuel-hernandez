@@ -36,7 +36,7 @@
   title-url: https://mannyzzle.github.io/Satellite-Interactive-Visualizer-And-Fleet-Optimization/
   date: Oct 2023 - May 2025
   subtitle: Founding Software Engineer
-  timetags:
+  tags:
     - tag: PostgresSQL
     - tag: TenserFlow
     - tag: Docker
