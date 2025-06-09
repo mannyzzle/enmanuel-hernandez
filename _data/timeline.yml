@@ -17,18 +17,18 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Stealth Startup
-  title-url: https://github.com/Team-Kokua
-  date: May 2025 -
-  subtitle: Software Engineer Intern
+- title: Meta
+  title-url: https://ai.meta.com/research/
+  date: June 2025 -
+  subtitle: Software Engineer
   tags:
-    - tag: TypeScript
-    - tag: AWS
-    - tag: LLM
+    - tag: Pytorch
+    - tag: Git
+    - tag: Dev Ops
     - tag: Python
-    - tag: Docker
-    - tag: React
-    - tag: WebSockets
+    - tag: SQL
+    - tag: Bash
+    - tag: Linux
   timeline-side: left
 
 
