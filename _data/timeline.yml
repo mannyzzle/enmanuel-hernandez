@@ -17,7 +17,7 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Meta
+- title: Meta AI
   title-url: https://ai.meta.com/research/
   date: June 2025 -
   subtitle: Software Engineer
@@ -48,10 +48,10 @@
     - tag: LSTM + LLM
   timeline-side: right
 
-- title: Starlink
+- title: SpaceX
   title-url: https://www.spacex.com/
   date: Jan 2025 - May 2025
-  subtitle: Software Engineer
+  subtitle: Ground Software Engineer
   tags:
     - tag: PostgresSQL
     - tag: Docker
