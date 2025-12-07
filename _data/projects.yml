@@ -46,16 +46,16 @@
     - tag: Python Scripting
     - tag: 
 
+- name: "SAM 3D — Single-Image 3D Reconstruction"
+descr: "Built on top of Meta’s SAM model, SAM 3D reconstructs full 3D shape, texture, and layout from a single 2D image — enabling real-world object and scene modeling even under occlusion or clutter."  
+demo: https://www.aidemos.meta.com/segment-anything/editor/convert-image-to-3d  
+tags:
+  - tag: Python  
+  - tag: PyTorch  
+  - tag: 3D Reconstruction  
+  - tag: Computer Vision  
+  - tag: Single-Image-to-3D  
 
-- name: "Modeling Stellar Spectra with Generative Models"
-  descr: "Developed a predictive model to analyze and infer properties from over 3,000 stellar spectra of red giants in the APOGEE survey using Python."
-  demo: https://github.com/mannyzzle/Modeling-Stellar-Spectra 
-  tags:
-    - tag: Pymc
-    - tag: Python
-    - tag: Markov Chains
-    - tag: Data Analysis
-    - tag: Stellar Physics
 
 - name: "Git Version Control System"
   descr: "Created a version control system similar to Git, allowing you to track changes in your codebase over time"
