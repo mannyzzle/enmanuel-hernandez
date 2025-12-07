@@ -47,14 +47,14 @@
     - tag: 
 
 - name: "SAM 3D — Single-Image 3D Reconstruction"
-descr: "Built on top of Meta’s SAM model, SAM 3D reconstructs full 3D shape, texture, and layout from a single 2D image — enabling real-world object and scene modeling even under occlusion or clutter."  
-demo: https://www.aidemos.meta.com/segment-anything/editor/convert-image-to-3d  
-tags:
-  - tag: Python  
-  - tag: PyTorch  
-  - tag: 3D Reconstruction  
-  - tag: Computer Vision  
-  - tag: Single-Image-to-3D  
+  descr: "Built on top of Meta’s SAM model, SAM 3D reconstructs full 3D shape, texture, and layout from a single 2D image — enabling real-world object and scene modeling even under occlusion or clutter."  
+  demo: https://www.aidemos.meta.com/segment-anything/editor/convert-image-to-3d  
+  tags:
+    - tag: Python  
+    - tag: PyTorch  
+    - tag: 3D Reconstruction  
+    - tag: Computer Vision  
+    - tag: Single-Image-to-3D  
 
 
 - name: "Git Version Control System"
