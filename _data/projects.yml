@@ -26,13 +26,16 @@
     - tag: Python
 
 
-- name: "Pika Run" 
-  descr: "Created 'Pika Run' an simple open-world mini-game using featuring a text-based engine that simulates dynamic world exploration through procedural room generation, interactive gameplay, and strategic navigation challenges."
-  demo: https://github.com/mannyzzle/Pika-Run 
+- name: "Prep Studio"
+  descr: "Spaced-repetition flashcards for the concepts that show up in interviews and on-call pages — databases, pipelines, distributed systems, and the rest of the usual suspects. 295 pregenerated flip + multiple-choice cards across 19 domains, Leitner scheduling in the browser, keyboard-first UX, no login, no tracking. React 19 + Vite + Tailwind on the frontend, FastAPI behind it, deployed on Railway."
+  demo: https://prep-studio-production.up.railway.app/
   tags:
-    - tag: OOP
-    - tag: Java
-    - tag: Data Structures
+    - tag: React
+    - tag: TypeScript
+    - tag: Tailwind
+    - tag: FastAPI
+    - tag: Python
+    - tag: Railway
 
 - name: "Satellite Fleet Optimization Web Application"
   descr: "Developed a full-stack web application with a 3D UI for exploring orbits around the globe & with AI enhanced orbital prediction using LSTM tracking that learns in real time. Integrated a PostgresSQL backend by AWS for satellite data and a React frontend for dynamic visualization/interaction."
