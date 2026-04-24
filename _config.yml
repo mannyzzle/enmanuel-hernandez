@@ -14,7 +14,7 @@ baseurl: /enmanuel-hernandez
 username: Enmanuel Hernandez
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Data Scientist x Software Engineer
+typing_text: ML/AI Applied Software Engineer
 # profile_picture: This will be the picture shown with your name, size must be noted
 profile_picture: https://github.com/mannyzzle.png?size=192
 profile_picture_size: 192px
@@ -52,7 +52,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: hi, i'm enmanuel. a uc berkeley grad in data science & astrophysics. im a software engineer who works on backend systems that blend AI, scientific computing, cloud infra, and sometimes quantum tech (because why not).  use the command the following to order your delicious whole bean coffee ~ $ ssh terminal.shop
+about_me_description: hi, i'm enmanuel. AI/ML applied SWE working in data systems. berkeley data science + astrophysics. i build eval frameworks, agentic automation, cloud pipelines, and the analytics dashboards that turn all of it into decisions. use the command the following to order your delicious whole bean coffee ~ $ ssh terminal.shop
 
 
 
