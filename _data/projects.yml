@@ -60,14 +60,20 @@
     - tag: Single-Image-to-3D  
 
 
-- name: "Git Version Control System"
-  descr: "Created a version control system similar to Git, allowing you to track changes in your codebase over time"
-  demo: https://github.com/mannyzzle/Git-Version-Control-System
+- name: "UnderTheHood"
+  descr: "Free weekly technical newsletter that takes one open-source system apart at a time — architecture, real trade-offs, every claim cited to Wikipedia, DeepWiki, GitHub, or DBDB (never hallucinated). Fully autonomous content pipeline: a Railway cron job scrapes GitHub trending + Hacker News, enriches candidates from pre-structured sources, auto-picks the week's subject, and has Claude Haiku restyle the input into a consistent voice (~$0.15 per issue with prompt caching). React 19 + Vite + Tailwind frontend in a tech-terminal theme with glossary hovers; FastAPI + Postgres on Railway; Resend for transactional email from a Route 53-verified custom domain; end-to-end signup, double-opt-in, one-click unsubscribe."
+  demo: https://underthehood-production.up.railway.app/
   tags:
-    - tag: Java
-    - tag: OOP
-    - tag: Data Structures
-    - tag: Git
+    - tag: React
+    - tag: TypeScript
+    - tag: Tailwind
+    - tag: FastAPI
+    - tag: Python
+    - tag: Postgres
+    - tag: Anthropic
+    - tag: Railway
+    - tag: Resend
+    - tag: AWS
 
 - name: "Galaxy Image Classifier"
   descr: "Developed a sophisticated machine learning model using PyTorch to classify galaxies based on shape, utilizing images from the Sloan Digital Sky Survey and Galaxy Zoo project."
