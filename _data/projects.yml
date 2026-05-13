@@ -39,7 +39,7 @@
 
 - name: "Satellite Fleet Optimization Web Application"
   descr: "Developed a full-stack web application with a 3D UI for exploring orbits around the globe & with AI enhanced orbital prediction using LSTM tracking that learns in real time. Integrated a PostgresSQL backend by AWS for satellite data and a React frontend for dynamic visualization/interaction."
-  demo: https://mannyzzle.github.io/Satellite-Interactive-Visualizer-And-Fleet-Optimization/
+  demo: https://sat-track.up.railway.app/
   tags:
     - tag: Full-Stack Development
     - tag: AWS RDS
