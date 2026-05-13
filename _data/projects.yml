@@ -37,7 +37,7 @@
     - tag: Python
     - tag: Railway
 
-- name: "Satellite Fleet Optimization Web Application"
+- name: "Sat-Track"
   descr: "Developed a full-stack web application with a 3D UI for exploring orbits around the globe & with AI enhanced orbital prediction using LSTM tracking that learns in real time. Integrated a PostgresSQL backend by AWS for satellite data and a React frontend for dynamic visualization/interaction."
   demo: https://sat-track.up.railway.app/
   tags:
@@ -47,17 +47,17 @@
     - tag: React/Node.js
     - tag: PostgreSQL
     - tag: Python Scripting
-    - tag: 
+    - tag:
 
 - name: "SAM 3D — Single-Image 3D Reconstruction"
-  descr: "Built on top of Meta’s SAM model, SAM 3D reconstructs full 3D shape, texture, and layout from a single 2D image — enabling real-world object and scene modeling even under occlusion or clutter."  
-  demo: https://www.aidemos.meta.com/segment-anything/editor/convert-image-to-3d  
+  descr: "Built on top of Meta’s SAM model, SAM 3D reconstructs full 3D shape, texture, and layout from a single 2D image — enabling real-world object and scene modeling even under occlusion or clutter."
+  demo: https://www.aidemos.meta.com/segment-anything/editor/convert-image-to-3d
   tags:
-    - tag: Python  
-    - tag: PyTorch  
-    - tag: 3D Reconstruction  
-    - tag: Computer Vision  
-    - tag: Single-Image-to-3D  
+    - tag: Python
+    - tag: PyTorch
+    - tag: 3D Reconstruction
+    - tag: Computer Vision
+    - tag: Single-Image-to-3D
 
 
 - name: "UnderTheHood"
@@ -77,7 +77,7 @@
 
 - name: "Galaxy Image Classifier"
   descr: "Developed a sophisticated machine learning model using PyTorch to classify galaxies based on shape, utilizing images from the Sloan Digital Sky Survey and Galaxy Zoo project."
-  demo: https://github.com/mannyzzle/Galaxy-Image-Classifier 
+  demo: https://github.com/mannyzzle/Galaxy-Image-Classifier
   tags:
     - tag: Resnet Neural Networks
     - tag: PyTorch
