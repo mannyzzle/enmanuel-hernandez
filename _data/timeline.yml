@@ -22,11 +22,11 @@
   date: July 2026 -
   subtitle: AI/ML Engineer
   tags:
-    -tag: Pytorch
-    -tag: Python
-    -tag: C++
-    -tag: SQL
-    -tag: Linux
+    - tag: Pytorch
+    - tag: Python
+    - tag: C++
+    - tag: SQL
+    - tag: Linux
   timeline-side: right
 
 
