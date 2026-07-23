@@ -17,9 +17,22 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Meta
+- title: GM Embodied AI (Cruise)
+  title-url: https://www.gm.com/innovation/autonomous-driving
+  date: July 2026 -
+  subtitle: AI/ML Engineer
+  tags:
+    -tag: Pytorch
+    -tag: Python
+    -tag: C++
+    -tag: SQL
+    -tag: Linux
+  timeline-side: right
+
+
+- title: Meta MSL
   title-url: https://www.meta.com
-  date: June 2025 -
+  date:  2025 - 2026
   subtitle: Software Engineer
   tags:
     - tag: Pytorch
