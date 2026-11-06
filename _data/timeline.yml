@@ -27,7 +27,7 @@
     - tag: C++
     - tag: SQL
     - tag: Linux
-  timeline-side: right
+  timeline-side: left
 
 
 - title: Meta MSL
@@ -42,7 +42,7 @@
     - tag: SQL
     - tag: Bash
     - tag: Linux
-  timeline-side: left
+  timeline-side: right
 
 
 - title: Sat-Track Project
@@ -59,19 +59,6 @@
     - tag: React
     - tag: GMAT
     - tag: LSTM + LLM
-  timeline-side: right
-
-- title: Starlink
-  title-url: https://www.spacex.com/
-  date: Dec 2024 - May 2025
-  subtitle: Ground Software Engineer
-  tags:
-    - tag: PostgresSQL
-    - tag: Docker
-    - tag: AWS
-    - tag: Python
-    - tag: C
-    - tag: Orbital Mechanics
   timeline-side: left
 
 - title: Berkeley Astronomy Dept Undergrad Research
